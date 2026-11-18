@@ -1,0 +1,1 @@
+"""Tests for the forex signals system."""
